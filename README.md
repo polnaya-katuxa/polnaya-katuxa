@@ -19,7 +19,7 @@ I’m Karpova Ekaterina aka @polnaya-katuxa, backend developer and BMSTU student
 - Information Security
 
 ### 📫 How to reach me
-- [Telegram](t.me/polnaya-katuxa)
+- [Telegram](https://t.me/polnaya-katuxa)
 
 <!---
 polnaya-katuxa/polnaya-katuxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
