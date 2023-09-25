@@ -1,7 +1,7 @@
 ### 👋 Hi
 I’m Karpova Ekaterina aka @polnaya-katuxa, backend developer and BMSTU student.
 
-### I've worked with
+### 💻 I've worked with
 - Golang, Python, C/C++
 - Vue.js
 - PostgreSQL, Redis, MongoDB, ClickHouse
