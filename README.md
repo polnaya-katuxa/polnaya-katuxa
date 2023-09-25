@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @polnaya-katuxa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi
+I’m Karpova Ekaterina aka @polnaya-katuxa, backend developer and BMSTU student.
+
+### I've worked with
+- Golang, Python, C/C++
+- Vue.js
+- PostgreSQL, Redis, MongoDB, ClickHouse
+- Kafka
+- Gitlab CI/CD
+- Docker, Docker Swarm
+
+### 👀 I’m interested in
+- Kubernetes
+- Highload
+  
+### 🌱 I’m currently learning
+- Computer networks
+- Operating systems
+- Information Security
+
+### 📫 How to reach me
+- tg: @polnaya-katuxa
 
 <!---
 polnaya-katuxa/polnaya-katuxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
