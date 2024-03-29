@@ -4,10 +4,10 @@ I’m Karpova Ekaterina aka @polnaya-katuxa, backend developer and BMSTU student
 ### 💻 I've worked with
 - Golang, Python, C/C++, Prolog, Lisp
 - Vue.js
-- PostgreSQL, Redis, MongoDB, ClickHouse
-- Kafka
+- PostgreSQL, Redis, MongoDB, ClickHouse, SQLite
+- Kafka, NATS
 - Gitlab CI/CD
-- Docker, Docker Swarm
+- Docker, Docker Swarm, k3s, Ansible
 
 ### 👀 I’m interested in
 - Kubernetes
